@@ -14,7 +14,7 @@
 
 pkg_name=test-sample-node
 pkg_origin=ianmadd
-pkg_version="1.3.0"
+pkg_version="1.4.0"
 pkg_deps=(core/node)
 
 # Habitat provides you with a number of built-in "callbacks" to use
