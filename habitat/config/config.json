@@ -1,4 +1,4 @@
 {
   "title": "{{ cfg.title }}",
-  "message": "Hello friend. {{ pkg.version }} is the newest version of the Habitat Node.js sample app."
+  "message": "Hello friend. We've updated to version {{ pkg.version }} of the Habitat Node.js sample app."
 }
